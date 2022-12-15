@@ -54,6 +54,21 @@ int max;
  }
 Console.WriteLine($"{max} is max  of {num1},{num2},{num3}");
 */
-+
+
+
+//Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+
+/*Console.WriteLine("Input number");
+int num1 = Convert.ToInt32(Console.ReadLine());
+int num2 = (num1 % 2);
+if (num2 == 0)
+{
+   Console.WriteLine($" Число {num1}  является чётным");
+}
+else 
+{
+   Console.WriteLine($" Число {num1}  не является чётным");
+}*/
+
 
 
